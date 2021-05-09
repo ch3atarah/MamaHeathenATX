@@ -4,6 +4,8 @@ body {
     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
     'Open Sans', 'Helvetica Neue', sans-serif;
     background-image: url('MVIMG_20201003_182100.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
   }
   h1 {
     color: pink;
